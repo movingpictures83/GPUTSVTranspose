@@ -1,0 +1,2 @@
+Prefix plugins/GPUTSVTranspose/example/
+Plugin GPUTSVTranspose inputfile parameters.txt outputfile transpose.tsv
